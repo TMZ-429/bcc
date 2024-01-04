@@ -31,3 +31,13 @@ $ node stagefix.js
 ```
 # make install
 ```
+
+#Notes:
+You may need to install ncurses & jsoncpp
+If you don't have them, the package names are libncurses-dev & libjsoncpp-dev
+With apt, the command should be :
+```
+# apt install libncurses-dev
+# apt install libjsoncpp-dev
+```
+You should just be able to use the install command with any other package manager and have it be the same -- I don't see a reason to suspect they'd change the package name when adding it to something like pacman or yum.
