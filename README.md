@@ -16,6 +16,7 @@ I should also note that at the moment, the "**Extras**" and "**Catamin Stages**"
 This is explained in the extremely choice words I have for the MyGamatoto developers in the comments of install_db.js
 
 You may want to update the program with the following commands whenever MyGamatoto updates their database (I'll try to upload up to date versions when they come out, but here's how to manually update anyways)
+
 ***Fair warning: Updating enemies takes upwards of an hour and updating stages takes upwards of 8 hours***
 
 # First, if you want to manually update the databases download the latest version of the database with:
