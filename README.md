@@ -27,3 +27,7 @@ $ node install_db.js
 ```
 $ node stagefix.js
 ```
+# Now, install the databases once more
+```
+# make install
+```
