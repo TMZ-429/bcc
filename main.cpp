@@ -3,7 +3,6 @@
 # include <iostream>
 # include <fstream>
 # include <string>
-# include <cmath>
 
 # define SHARE_DIRECTORY "/usr/local/share/bcc"
 
