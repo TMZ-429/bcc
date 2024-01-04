@@ -32,7 +32,7 @@ $ node stagefix.js
 # make install
 ```
 
-#Notes:
+# Notes:
 You may need to install ncurses & jsoncpp
 If you don't have them, the package names are libncurses-dev & libjsoncpp-dev
 With apt, the command should be :
