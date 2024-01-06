@@ -498,7 +498,7 @@ void viewCat(Json::Value cats) {
                 data[i] = to_string(
                         level > 1 && level <= m ? (int) (cat[replacements_P[l]].asInt() * ((level + 4) / 5.0)) : 
                         level > m && level <= p ? (int) (cat[replacements_P[l]].asInt() * (((m + 4) / 5.0) + ((level - m) / 10.0))) :
-                        level > p ? (int) (cat[replacements_P[l]].asInt() * (((m + 4) / 5.0) + ((p - m) / 10) + ((level - p) / 20))) :
+                        level > p ? (int) (cat[replacements_P[l]].asInt() * (((m + 4) / 5.0) + ((p - m) / 10.0) + ((level - p) / 20.0))) :
                         cat[replacements_P[l]].asInt()
                 );
             } else {
