@@ -1,5 +1,12 @@
 INSTALLATION:
 
+# Pre-install instructions:
+Issue the following commands:
+```
+$ git clone https://github.com/TMZ-429/bcc.git
+$ cd bcc
+```
+
 # First, use the makefile to compile the program & set up the directory the program relies on in /usr/local/share
 ```
 # make
